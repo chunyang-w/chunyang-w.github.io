@@ -8,15 +8,14 @@ I am an Incoming Ph.D. student at [Imperial College London](https://www.imperial
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning for Science** I am interested in utilizing machine learning techniques to empower the scientific discovery process, particularly through the use of neural networks to develop surrogate models that accelerate scientific computation.
+- **Computational Methods:** Includes applying Finite Element Methods (FEM) and Finite Difference Methods (FDM) to enhance physical simulations.
 
-<!-- ## News
+## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
+- **[Feb. 2024]** I was awarded a Janet Watson PhD
+Studentship and will be starting my Ph.D project in Sep. 2024 at Imperial College London.
+- **[Nov. 2023]** Obtained my MSc degree from Imperial College London with Distinctin.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
