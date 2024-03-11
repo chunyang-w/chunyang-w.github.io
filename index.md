@@ -9,7 +9,7 @@ I am Chunyang Wang 「王春阳」, an Incoming Ph.D. student at [Imperial Colle
 ## Research Interests
 
 - **Machine Learning for Science** I am interested in utilizing machine learning techniques to empower the scientific discovery process, particularly through the use of neural networks to develop surrogate models that accelerate scientific computation.
-- **Computational Methods:** Includes applying Finite Element Methods (FEM) and Finite Difference Methods (FDM) to enhance physical simulations.
+- **Computational Methods:** Includes applying Finite Element Methods (FEM) and Finite Difference Methods (FDM) to carry out physical simulations.
 
 ## News
 
