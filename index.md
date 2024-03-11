@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Bio
 
 I am a Ph.D. student at ...
 
