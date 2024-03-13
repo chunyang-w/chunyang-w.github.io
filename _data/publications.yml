@@ -1,20 +1,20 @@
 main:
 
-  - title: “MobileNet investigation - its application and reproducing edge detectors using depth-wise separable convolution”
+  - title: "MobileNet investigation: its application and reproducing edge detectors using depth-wise separable convolution"
     authors: <strong>Chunyang Wang</strong>, Yifan Wu, Zhen Luo
-    conference_short: ICMLCA
+    # conference_short: ICMLCA
     conference: ICMLCA 2021; 2nd International Conference on Machine Learning and Computer Application
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://ieeexplore.ieee.org/document/9736799
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/MobileNet.png
     # notes: Early Accept
 
   - title: "Comparative study on deep learning models in humor detection"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: SPIE
+    authors: Murong Yi, <strong>Chunyang Wang</strong>, Shiqi Xin
+    # conference_short: SPIE
     conference: 2021 International Conference on Neural Networks, Information and Communication Engineering
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11933/2615164/Comparative-study-on-deep-learning-models-in-humor-detection/10.1117/12.2615164.short
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
