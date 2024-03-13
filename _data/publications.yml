@@ -4,7 +4,8 @@ main:
     authors: <strong>Chunyang Wang</strong>, Yifan Wu, Zhen Luo
     # conference_short: ICMLCA
     conference: ICMLCA 2021; 2nd International Conference on Machine Learning and Computer Application
-    pdf: https://ieeexplore.ieee.org/document/9736799
+    # pdf: https://ieeexplore.ieee.org/document/9736799
+    link: https://ieeexplore.ieee.org/document/9736799
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/MobileNet.png
@@ -14,7 +15,8 @@ main:
     authors: Murong Yi, <strong>Chunyang Wang</strong>, Shiqi Xin
     # conference_short: SPIE
     conference: 2021 International Conference on Neural Networks, Information and Communication Engineering
-    pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11933/2615164/Comparative-study-on-deep-learning-models-in-humor-detection/10.1117/12.2615164.short
+    # pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11933/2615164/Comparative-study-on-deep-learning-models-in-humor-detection/10.1117/12.2615164.short
+    link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11933/2615164/Comparative-study-on-deep-learning-models-in-humor-detection/10.1117/12.2615164.short
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
