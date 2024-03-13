@@ -17,6 +17,6 @@ I am Chunyang Wang 「王春阳」, an incoming Ph.D. student at [Imperial Colle
 Studentship and will be starting my Ph.D project in Sep. 2024 at Imperial College London.
 - **[Nov. 2023]** I obtained my MSc degree from Imperial College London with Distinction.
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
